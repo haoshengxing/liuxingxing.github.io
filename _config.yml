@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "刘星星"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "刘星星"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "德国施罗斯脊柱侧弯训练师认证高级运动康复师，中瑛普拉提全系列认证教练，专注普拉提及个性化康复七年"
+  location         : "郑州"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
