@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "德国施罗斯脊柱侧弯训练师认证高级运动康复师，中瑛普拉提全系列认证教练，专注普拉提及个性化康复七年"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+刘星星是一位拥有丰富经验的普拉提教练，专注于为客户提供高质量的身体训练和康复指导。她从业已七年，期间积累了宝贵的行业经验，深刻理解普拉提的核心理念和技术。刘星星拥有德国施罗斯脊柱侧弯训练师认证，这一资格使她能够专门针对脊柱侧弯的客户提供有效的训练方案，帮助他们改善姿势、增强核心力量，并促进整体健康。
+
+此外，作为高级运动康复师，刘星星在运动医学和身体康复方面的专业知识为她的教学增添了深度。她能够根据每个客户的身体状况和需求，制定个性化的训练计划，以确保客户在安全的环境中进行有效的锻炼。这种专注于客户需求的方式，帮助许多人克服运动伤害、提高身体素质，并重新获得运动的乐趣。
+
+刘星星所获得的中瑛普拉提全系列认证则进一步拓展了她的教学技能，使她掌握了普拉提的多种训练方法和技巧。她能够运用不同的器械和训练方式，为不同水平的学员提供专业指导。无论是初学者还是有一定基础的普拉提爱好者，刘星星总能根据个人的能力和目标，提供相应的训练建议，确保每位学员都能在愉悦的氛围中实现身体的进步。
+
+在她的课堂上，刘星星注重创造一个积极、友好的训练环境，让学员们感受到普拉提的乐趣和益处。她善于激励学员，帮助他们树立信心，并在训练过程中不断挑战自我，突破极限。刘星星相信，健康的身体和良好的心态是实现生活目标的重要基石，因此，她不仅关注学员的身体变化，更关心他们的心理状态和整体幸福感。
+
+总之，刘星星凭借丰富的专业知识和多年的实际经验，成为了普拉提领域内一位受人尊敬的教练。她始终秉持"以人为本"的教学理念，为每一个追求健康和美丽的学员提供最优质的服务。在未来的日子里，她将继续致力于推广普拉提的理念，帮助更多人实现身体与心理的和谐发展。
 
 A data-driven personal website
 ======
@@ -21,7 +29,7 @@ Getting started
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. The·y will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
